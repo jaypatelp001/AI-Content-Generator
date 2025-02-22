@@ -19,7 +19,7 @@ This tool is perfect for influencers, digital marketers, content creators, and b
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+  https://github.com/jaypatelp001/AI-Content-Generato
 Navigate to the project folder:
 sh
 Copy
