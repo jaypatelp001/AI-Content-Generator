@@ -14,7 +14,10 @@ Features
 
 This tool is perfect for influencers, digital marketers, content creators, and businesses looking to enhance their social media presence and YouTube content effortlessly.
 
-
+## Technologies Used
+Frontend: React.js / HTML, CSS, JavaScript
+Backend: Node.js / Python (Flask, FastAPI)
+AI Model: OpenAI / Hugging Face / Custom NLP model
 
 ## Installation
 1. Clone the repository:
